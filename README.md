@@ -36,10 +36,8 @@ $ cd /vagrant
 $ ls 
 ```
 
-Open 
-- <http://127.0.0.1:1080>. You should see an "it works" page
-- <http://127.0.0.1:1080/tools/apache-status/> Apache status page.
-- <http://127.0.0.1:1080/tools/apache-info/> Apache info page.
+Open <http://127.0.0.1:1080>. You should see an "it works" page
+
 
 
 #### Step 5: Stop vagrant
